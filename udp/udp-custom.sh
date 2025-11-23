@@ -6,7 +6,7 @@ rm -rf /etc/udp
 fi
 mkdir -p /etc/udp
 
-UDP="https://raw.githubusercontent.com/sukronwae85-design/SUKRONWAE85/main/udp/"
+UDP="https://raw.githubusercontent.com/genznet/Genznet-VPN/main/udp/"
 # install udp-custom
 echo downloading udp-custom
 wget -O /etc/udp/udp-custom "${UDP}udp-custom-linux-amd64"
