@@ -5,7 +5,7 @@ apt update -y
 apt install -y unzip wget
 
 # Mengunduh dan mengekstrak menu.zip
-wget https://raw.githubusercontent.com/sukronwae85-design/SUKRONWAE85/main/menu/c1/menu.zip
+wget https://raw.githubusercontent.com/genznet/Genznet-VPN/main/menu/c1/menu.zip
 unzip menu.zip
 chmod +x menu/*
 mv menu/* /usr/local/sbin
