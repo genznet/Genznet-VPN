@@ -2,12 +2,12 @@
 MYIP=$(wget -qO- icanhazip.com);
 apt install jq curl -y
 read -p "Masukan Subdomain (contoh : xnxx)" domen
-DOMAIN=bagusvpn.me
+DOMAIN=domain-kamu
 sub=${domen}
 #(</dev/urandom tr -dc a-z0-9 | head -c5)
 dns=${sub}.bagusvpn.me
-CF_ID=putrameratus2@gmail.com
-CF_KEY=8d5c58d345dbb3b34b8420b9b15df5f6b8292
+CF_ID=email-cloudflare-kamu
+CF_KEY=Api-cloudflare-kamu
 set -euo pipefail
 IP=$(wget -qO- icanhazip.com);
 echo "Updating DNS for ${dns}..."
