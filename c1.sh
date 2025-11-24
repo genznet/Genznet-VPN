@@ -991,7 +991,7 @@ cat > /etc/julak.txt << END
 happy conneting
 
 <p style="text-align: center;">
-    <span style="color: #41A85F; font-size: 26px;"><strong>JULAK VPN</strong></span>
+    <span style="color: #41A85F; font-size: 26px;"><strong>GENZNET VPN</strong></span>
     <span style="font-size: 26px;"><strong> </strong></span>
     <span style="color: #F37934; font-size: 26px;"><strong>PREMIUM</strong></span>
     <span style="font-size: 26px;">&nbsp;</span>
@@ -1004,7 +1004,7 @@ happy conneting
 </p>
 <p style="text-align: center;">
     <span style="color: #B8312F;">Telp/WhatsApp</span>:
-    <span style="color: #EFEFEF;">085166600428</span>
+    <span style="color: #EFEFEF;">089664810603</span>
 </p>
 END
 
