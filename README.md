@@ -5,13 +5,10 @@ Masukkan perintah dibawah jika anda menggunakan OS Ubuntu Version 24 Keatas
 ```
 wget --no-check-certificate https://raw.githubusercontent.com/genznet/Genznet-VPN/main/c1.sh && chmod +x c1.sh && ./c1.sh
 ```
-## JIKA ERROR GANTI MENU :
+## JIKA ERROR GANTI MENU 2
 
 ```
-wget --no-check-certificate https://raw.githubusercontent.com/genznet/Genznet-VPN/main/c1.sh \
-&& (sed -i 's/\r$//' c1.sh || dos2unix c1.sh) \
-&& chmod +x c1.sh \
-&& ./c1.sh
+sed -i 's/\r$//' /usr/local/sbin/mukung1
 ```
 
 ## FOR UBUNTU DI BAWAH 24 
